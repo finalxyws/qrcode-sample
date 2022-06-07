@@ -1,0 +1,20 @@
+{
+  "fullscreen": true,
+  "name": "qrcode demo",
+  "default_locale": "en-US",
+  "icons": {
+    "84": "/style/icons/camera_112.png"
+  },
+  "orientation": "portrait-primary",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "permissions": {
+    "camera": {}
+  },
+  "locales": {
+    "en-US": {
+      "name": "Qrcode demo",
+      "description": "Camera demo"
+    }
+  }
+}
