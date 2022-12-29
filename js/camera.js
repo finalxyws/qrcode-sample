@@ -75,7 +75,7 @@
     },
 
     gotCameraError: function() {
-      // some log or do some thing
+      // some log or do something
     },
 
     getProperPictureSize: function (sizes) {
